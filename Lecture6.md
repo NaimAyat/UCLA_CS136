@@ -45,8 +45,8 @@
   1.  Trent doesn’t really know what he’s supposed to do
   2.  Alice doesn’t verify he did the right thing
 * Minor changes can fix that
-  1.  Encrypt request with KA
-  2.  Include identity of other participant in response -  E_KA(K_S, Bob)
+  1.  Encrypt request with K<sub>A</sub>
+  2.  Include identity of other participant in response -  E<sub>K<sub>A</sub></sub>(K<sub>S</sub>, Bob)
 ## But There’s Another Problem
 * A replay attack
 * Replay attacks occur when Mallory copies down a bunch of protocol messages
