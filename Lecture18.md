@@ -23,7 +23,7 @@
    * And testing of defenses
    * Vital for fast response and scalability
 ## Nature of Controls
-### Inventory of Devices on Your System
+### 1. Inventory of Devices on Your System
 * Why this is important: 
   * If you don’t know what you have, how can you protect it?
   * Attackers look for everything in your environment
@@ -37,7 +37,7 @@
 * Passive tools
   * Analyze network traffic to find undiscovered devices
 * Maintain an approved inventory of devices
-### Inventory of Devices on Your System
+### 2. Inventory of Software on Your System
 * Why it’s important:
   * Most attacks come through software installed on your system
   * Understanding what’s there is critical to protecting it
